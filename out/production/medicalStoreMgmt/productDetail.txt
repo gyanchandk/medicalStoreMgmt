@@ -1,0 +1,3 @@
+b14324#Paracetamol#TABLET#MARCH,2020#2314.0#1234.0#girish medical#3
+b1243#Paracetamol#TABLET#JULY,2020#2341.0#2341.0#girish medical#4
+xxxxxxx#Paracetamol#TABLET#MARCH,2020#0.0#0.0#girish medical#5
